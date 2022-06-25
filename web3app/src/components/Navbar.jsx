@@ -1,7 +1,7 @@
-import { HiMenutAlt4 } from "react-icons/hi";
-import { AiOutlineClose } from "react-icons/ai";
-import logo from "../../images/logo.png";
-import { jsxDEV as _jsxDEV } from "react/jsx-dev-runtime";
+import { HiMenutAlt4 } from "react-icons/hi"
+import { AiOutlineClose } from "react-icons/ai"
+import logo from "../../images/logo.png"
+import { jsxDEV as _jsxDEV } from "react/jsx-dev-runtime"
 
 const Navbar = () => {
   return (
