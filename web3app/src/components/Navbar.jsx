@@ -5,9 +5,10 @@ import { jsxDEV as _jsxDEV } from "react/jsx-dev-runtime"
 
 const Navbar = () => {
   return (
-    <nav className='w-full flex md:justify-center justify-between items-center p-4'>
+    <nav className='flex-row-reverse justify-between items-center p-1'>
       <div className="md:flex-[0.5] flex-initial justify-center items-center p">
-        <img src={logo} alt="logo" className="w-32" />
+        <img src={logo} alt="logo" className="w-64" />
+     
       </div>
     </nav>
   )

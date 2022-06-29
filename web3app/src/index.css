@@ -83,6 +83,3 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
